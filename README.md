@@ -4,7 +4,7 @@
 
 ## I'm a Husband, and Developer!!
 
-- 🔭 I just launched my first article: [How you can handle HTTPS error on .Net Core Projects][course]!
+- 🔭 I just launched my first article: [How you can handle HTTPS error on .Net Core Projects][article]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
@@ -59,3 +59,4 @@
 [twitter]: https://twitter.com/kurubamya_
 [instagram]: https://instagram.com/osmanplt
 [linkedin]: https://linkedin.com/in/pltosman
+[article]: https://medium.com/@pltosman/https-üzerinden-net-core-projemiz-ile-çalışırken-sertifika-hatası-alırsak-ne-yapmalıyız-ca471d1315b9
