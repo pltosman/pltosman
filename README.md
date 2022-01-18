@@ -7,7 +7,7 @@
 - 🔭 I just launched my first article: [How you can handle HTTPS error on .Net Core Projects][article]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to walk and visit the UK's cities
 
 ### Connect with me:
